@@ -8,7 +8,7 @@
 
  
 
-:computer: I'm Junior Developer!
+:computer: I'm student!
 
 :house_with_garden: I’m from Brazil.
 
