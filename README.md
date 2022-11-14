@@ -6,7 +6,7 @@
 
 ## I'm GUILHERME!
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Guilherme-07062002/Guilherme-07062002/blob/output/github-contribution-grid-snake.svg)
 
 
 
