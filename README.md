@@ -22,11 +22,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/guilherme-gomes-1321a9213/)
 
  
-<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-07062002&show_icons=true&theme=radical)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-07062002&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-07062002&show_icons=true&theme=radical&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-07062002&bg_color=141321&title_color=D83A7C&text_color=A9FEF7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
