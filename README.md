@@ -14,7 +14,7 @@
 
 :books: I’m currently learning everything | Atualmente eu estou aprendendendo de tudo.
 
-:outbox_tray: 2022 Goals: create new projects, find a new job and learn more and more | Metas para 2022: Criar novos projetos, conseguir um emprego e aprender mais e mais.
+:outbox_tray: 2023 Goals: create new projects, find a new job and learn more and more | Metas para 2023: Criar novos projetos, conseguir um emprego e aprender mais e mais.
  
 
 ## About me: / Sobre mim:
