@@ -8,13 +8,13 @@
 
 
 
-:computer: I'm student | Eu sou estudante!
+:computer: I'm a graduate student and a backend developer | Eu sou estudante e desenvolvedor backend
 
 :house_with_garden: I’m from Brazil | Eu sou do Brasil.
 
-:books: I’m currently learning everything | Atualmente eu estou aprendendendo de tudo.
+:books: My specialties are: SQL, MongoDB, Express, Docker and Typescript but I'm learning everything. | Minhas especialidades são: SQL, MongoDB, Express, Docker e Typescript mas eu estou aprendendendo de tudo.
 
-:outbox_tray: 2023 Goals: create new projects, find a new job and learn more and more | Metas para 2023: Criar novos projetos, conseguir um emprego e aprender mais e mais.
+:outbox_tray: Goals for 2023: Create new projects, seize opportunities and learn more and more. | Metas para 2023: Criar novos projetos, agarrar oportunidades e aprender mais e mais.
  
 
 ## About me / Sobre mim:
