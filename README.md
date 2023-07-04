@@ -8,7 +8,7 @@
 
 
 
-:computer: I'm a graduate student and a backend developer | Eu sou estudante e desenvolvedor backend
+:computer: I'm a graduate student and a backend developer | Eu sou estudante de graduação e desenvolvedor backend
 
 :house_with_garden: I’m from Brazil | Eu sou do Brasil.
 
