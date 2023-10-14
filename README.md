@@ -8,11 +8,11 @@
 
 
 
-:computer: I'm a graduate student and a backend developer | Eu sou estudante de graduação e desenvolvedor backend
+:computer: I'm a graduate student and a full-stack developer | Eu sou estudante de graduação e desenvolvedor full-stack
 
 :house_with_garden: I’m from Brazil | Eu sou do Brasil.
 
-:books: My specialties are: SQL, MongoDB, Express, Docker and Typescript but I'm learning everything. | Minhas especialidades são: SQL, MongoDB, Express, Docker e Typescript mas eu estou aprendendendo de tudo.
+:books: My specialties are: SQL, MongoDB, Express, Docker, React and Typescript but I'm learning everything. | Minhas especialidades são: SQL, MongoDB, Express, Docker, React e Typescript mas eu estou aprendendendo de tudo.
 
 :outbox_tray: Goals for 2023: Create new projects, seize opportunities and learn more and more. | Metas para 2023: Criar novos projetos, agarrar oportunidades e aprender mais e mais.
  
