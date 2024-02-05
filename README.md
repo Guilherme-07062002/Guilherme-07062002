@@ -14,7 +14,7 @@
 
 :books: My specialties are: SQL, MongoDB, Express, Docker, React and Typescript but I'm learning everything. | Minhas especialidades são: SQL, MongoDB, Express, Docker, React e Typescript mas eu estou aprendendendo de tudo.
 
-:outbox_tray: Goals for 2023: Create new projects, seize opportunities and learn more and more. | Metas para 2023: Criar novos projetos, agarrar oportunidades e aprender mais e mais.
+:outbox_tray: Goals for 2024: Create new projects, seize opportunities and learn more and more. | Metas para 2024: Criar novos projetos, agarrar oportunidades e aprender mais e mais.
  
 
 ## About me / Sobre mim:
@@ -29,18 +29,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-07062002&bg_color=141321&title_color=D83A7C&text_color=A9FEF7&layout=compact" />
   </a>
 </div>
-
  
  ### Streak
  
  <img align="center" src="https://streak-stats.demolab.com/?user=Guilherme-07062002&theme=radical" />
 
-
-
-#### My Linkedin Profile / Meu perfil no Linkedin:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/guilherme-gomes-1321a9213/)
-
 - Thanks for visiting ! / Obrigado pela visita !
-
 
 ----------------------------------------------------------------------------------
